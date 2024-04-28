@@ -5,3 +5,7 @@ node_modules
 # build artefacts
 
 public
+
+# secrets
+gh-pages
+gh-pages.pub
